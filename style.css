@@ -78,7 +78,7 @@
     transform: translateY(-50%);
     text-align: center;
     color:white;
-    background-color:#2e5e8d;
+    background-image: url("./back.jpg");
     font-weight: 100;
     line-height: 25px;
 }
